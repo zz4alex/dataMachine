@@ -14,10 +14,8 @@ The code has been tested on Windows with NVIDIA GPUs (CUDA 12.1), PyTorch 2.4.0 
 
 # Folder Structure
 
--- data/  
----- healthy/   # 30 txt files (one per healthy participant)  
----- patient/   # 28 txt files (one per patient)  
---src/  
----- all-in-one.py 
+Files:
+-- data.zip 
+-- 1DCNN-BiGRU-OpenAccess.py
 -- README.md
 -- LICENSE
